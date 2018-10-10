@@ -14,6 +14,9 @@ Users can choose to train a network using the default parameters or specify
 their own parameters. After training, the user can test on the default data or
 their own data.
 
+Watch the code in use:
+https://www.youtube.com/watch?v=t2Y0bZ8DIYM&feature=youtu.be
+
 How to Use
 ----------
 1. Run the script 'run_network'
